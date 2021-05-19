@@ -3,7 +3,8 @@
 % -
 
 
-{{вулкан => Volcano}}
-
 {@ -intro.md || 1 @}
 {@ -direct.md || 1 @}
+
+{@ Snippets.md || 0 @}
+
